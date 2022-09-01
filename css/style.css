@@ -162,7 +162,6 @@ p {
       hsl(146, 68%, 55%));
 }
 .header .switcher button.dark::before {
-  background-color: var(--text-two);
   right: calc(100% - 22px);
 }
 
