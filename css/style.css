@@ -100,7 +100,7 @@ p {
 .header .title {
   margin-bottom: 20px;
   padding-bottom: 20px;
-  border-bottom: 1px solid var(--text-two);
+  border-bottom: 1px solid var(--text-one);
 }
 
 @media (min-width: 576px) {
